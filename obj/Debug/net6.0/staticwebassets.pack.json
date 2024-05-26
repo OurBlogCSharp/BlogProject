@@ -7697,8 +7697,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\3f0e42b5-c189-4ed0-a54a-84259d9f4adf_zoro.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\3f0e42b5-c189-4ed0-a54a-84259d9f4adf_zoro.jpg"
+    },
+    {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\9a1b91ab-d2bd-4e2e-b3c6-cbd7f1fd3f11_rudeus.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\9a1b91ab-d2bd-4e2e-b3c6-cbd7f1fd3f11_rudeus.jpg"
+    },
+    {
       "Id": "D:\\Blog\\wwwroot\\thumbnails\\a140652e-60c3-4751-9ba6-911d17ae8c00_jotaro.jpg",
       "PackagePath": "staticwebassets\\thumbnails\\a140652e-60c3-4751-9ba6-911d17ae8c00_jotaro.jpg"
+    },
+    {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\d73bda3e-e19f-43ed-90f9-8941b430fa27_zoro.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\d73bda3e-e19f-43ed-90f9-8941b430fa27_zoro.jpg"
     },
     {
       "Id": "D:\\Blog\\wwwroot\\thumbnails\\db76cc1e-79d3-490c-81e9-d68b19e116df_Kana.png",
@@ -7709,8 +7721,24 @@
       "PackagePath": "staticwebassets\\thumbnails\\default.jpg"
     },
     {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\ead3746d-e553-4a23-8866-e2d8a949567c_natsu.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\ead3746d-e553-4a23-8866-e2d8a949567c_natsu.jpg"
+    },
+    {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\ed53cbc9-456b-4bd8-b37e-e8240600a12d_jotaro.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\ed53cbc9-456b-4bd8-b37e-e8240600a12d_jotaro.jpg"
+    },
+    {
       "Id": "D:\\Blog\\wwwroot\\thumbnails\\f12430c1-3914-4f49-a954-8f7718c8c2bf_aqua.png",
       "PackagePath": "staticwebassets\\thumbnails\\f12430c1-3914-4f49-a954-8f7718c8c2bf_aqua.png"
+    },
+    {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\f1f67391-3b6d-49a0-8d32-91fef25604be_rudeus.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\f1f67391-3b6d-49a0-8d32-91fef25604be_rudeus.jpg"
+    },
+    {
+      "Id": "D:\\Blog\\wwwroot\\thumbnails\\fa51c35e-429b-4126-9b72-8e07cd5d3ff0_natsu.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\fa51c35e-429b-4126-9b72-8e07cd5d3ff0_natsu.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props",

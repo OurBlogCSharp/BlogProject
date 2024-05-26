@@ -1,5 +1,7 @@
 ﻿using Blog.Models;
-using Microsoft.Build.Framework;
+using System.ComponentModel.DataAnnotations;
+using Xunit;
+using Xunit.Sdk;
 
 namespace Blog.ViewModels
 {
@@ -13,6 +15,5 @@ namespace Blog.ViewModels
         public string? Description { get; set; }
         public string? PhotoUrl { get; set; }
         public IFormFile? PhotoFormFile { get; set; }
-
     }
 }

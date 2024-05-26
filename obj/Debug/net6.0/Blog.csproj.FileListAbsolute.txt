@@ -258,3 +258,12 @@ D:\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pr
 D:\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Blog\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Blog\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+D:\Blog\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\Blog\bin\Debug\net6.0\X.PagedList.dll
+D:\Blog\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Blog\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Blog\bin\Debug\net6.0\xunit.core.dll
+D:\Blog\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\C#\Blog (2)\Blog\obj\Debug\net6.0\Blog.dll
+D:\C#\Blog (2)\Blog\obj\Debug\net6.0\refint\Blog.dll
+D:\C#\Blog (2)\Blog\obj\Debug\net6.0\Blog.pdb
